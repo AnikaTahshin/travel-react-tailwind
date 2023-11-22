@@ -6,7 +6,7 @@ import Maldives2 from '../assets/maldives2.jpg';
 import KeyWest from '../assets/keywest.jpg';
 const Destination = () => {
   return (
-    <div className='max-w-[1200px] mx-auto py-16 text-center px-4'>
+    <div className='max-w-[1240px] mx-auto py-16 text-center px-4'>
         <h1>All-Inclusive Resorts</h1>
         <p className='py-4'>On the Carribean's Best Beaches</p>
         <div className='grid grid-rows-none md:grid-cols-5 py-4 gap-2 md:gap-4'>
