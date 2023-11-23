@@ -1,4 +1,5 @@
 import Destination from "./components/Destination";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Search from "./components/Search";
@@ -15,6 +16,7 @@ function App() {
         <Search />
         <Select />
         <Slider />
+        <Footer />
       </div>
     </>
   );
